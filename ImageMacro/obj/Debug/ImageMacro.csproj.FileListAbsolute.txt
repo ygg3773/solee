@@ -1,0 +1,10 @@
+C:\Users\100746\source\repos\ImageMacro\bin\Debug\ImageMacro.exe.config
+C:\Users\100746\source\repos\ImageMacro\bin\Debug\ImageMacro.exe
+C:\Users\100746\source\repos\ImageMacro\bin\Debug\ImageMacro.pdb
+C:\Users\100746\source\repos\ImageMacro\obj\Debug\ImageMacro.csprojAssemblyReference.cache
+C:\Users\100746\source\repos\ImageMacro\obj\Debug\ImageMacro.MainForm.resources
+C:\Users\100746\source\repos\ImageMacro\obj\Debug\ImageMacro.Properties.Resources.resources
+C:\Users\100746\source\repos\ImageMacro\obj\Debug\ImageMacro.csproj.GenerateResource.cache
+C:\Users\100746\source\repos\ImageMacro\obj\Debug\ImageMacro.csproj.CoreCompileInputs.cache
+C:\Users\100746\source\repos\ImageMacro\obj\Debug\ImageMacro.exe
+C:\Users\100746\source\repos\ImageMacro\obj\Debug\ImageMacro.pdb
